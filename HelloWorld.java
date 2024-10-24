@@ -6,6 +6,7 @@ public class HelloWorld{
     System.out.println("Added changes 1 in the local repository");
     System.out.println("Added changes 2 in the remote repository");
     System.out.println("Added changes 3 in the remote repository");
+    System.out.println("Added changes 2 in the local repository");
     System.out.println("Added Changes 4 in the remote repository");
     System.out.println("Added Changes 3 in the local repository");
   }
